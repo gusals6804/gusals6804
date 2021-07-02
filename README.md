@@ -1,9 +1,9 @@
 ### 안녕하세요 👋
 
-홍익대학교 APL 연구실에서 인공지능·빅데이터 관련 프로젝트 및 공부를 하였습니다.
-http://apl.hongik.ac.kr	
-현재 너울리라는 스타트업에 재직 중입니다.
-https://neouly.com/	
+홍익대학교 APL 연구실에서 인공지능·빅데이터 관련 프로젝트 및 공부를 하였습니다.</bn>
+http://apl.hongik.ac.kr</bn>	
+현재 너울리라는 스타트업에 재직 중입니다.</bn>
+https://neouly.com/</bn>	
 
 # Awards
 | 주관사 | 대회명 | 순위 |
