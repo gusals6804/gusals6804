@@ -45,6 +45,7 @@ https://neouly.com/<br/>
 | 기간 | 내용 | 비고 |
 | :------: | :------: | :------: |
 | 2021.05.03 ~ 2021.05.24 | [DACON]2020년 산업제어시스템 보안위협 탐지 AI 경진대회(입문반) | 튜터링 강의 진행 |
+| 2021.09.13 ~ 2021.09.16 | PNU 데이터톤 2021 Pre Hackathon(부산대학교) | 강의 진행 |
 
 # Paper
 + http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=ba91b1b1840ef17cffe0bdc3ef48d419
