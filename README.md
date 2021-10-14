@@ -1,7 +1,7 @@
 ### 안녕하세요 👋
 프로젝트 및 공부했던 것들을 하나씩 정리중입니다.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals6804)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals6804&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 홍익대학교 APL 연구실에서 인공지능·빅데이터 전공 석사 졸업<br/>
