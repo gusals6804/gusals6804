@@ -7,7 +7,7 @@
 홍익대학교 APL 연구실에서 인공지능·빅데이터 전공 석사 졸업<br/>
 http://apl.hongik.ac.kr<br/>	
 현) 스타트업 너울리 재직 중<br/>
-https://neouly.com/<br/>	
+https://neouly.com/<br/>	 
 
 # Awards
 | 주관사 | 대회명 | 순위 |
