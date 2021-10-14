@@ -2,7 +2,7 @@
 프로젝트 및 공부했던 것들을 하나씩 정리중입니다.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gusals6804&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%233DB6C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 홍익대학교 APL 연구실에서 인공지능·빅데이터 전공 석사 졸업<br/>
 http://apl.hongik.ac.kr<br/>	
