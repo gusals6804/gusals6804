@@ -58,3 +58,4 @@ https://neouly.com/<br/>
 # Paper
 + http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=ba91b1b1840ef17cffe0bdc3ef48d419
 + https://ieeexplore.ieee.org/document/9415261
+https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002807514
