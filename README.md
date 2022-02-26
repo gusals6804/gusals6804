@@ -30,6 +30,7 @@ https://neouly.com/<br/>
 | [DACON] 한국에너지공단 | 전력사용량 예측 AI 경진대회| 19위(6%) |
 | [DACON] 한국지능정보사회진흥원(NIA) | 2021 Ego-Vision 손동작 인식 AI 경진대회 | 28위(10%) |
 | [DACON] 한국고용정보원 | 잡케어 추천 알고리즘 경진대회 | 6위(1%) |
+| [DACON] LG | 농업 환경 변화에 따른 작물 병해 진단 AI 경진대회 | 51위(15%) |
 
 # Work & Project experience 
 | 기간 | 소속 | 프로젝트명 | 비고 |
