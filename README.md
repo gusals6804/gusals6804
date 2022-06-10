@@ -60,6 +60,8 @@ https://neouly.com/<br/>
 | 총 12시간 | [SK 실트론] (3기) AI연구회_초급 과정 | 강의 진행 |
 | 총 4시간 | [배재대학교] AI 경진대회를 기반으로한 PBL 교육 | 강의 진행 |
 | 총 8시간 | [대학교] AI 경진대회를 기반으로한 PBL 교육 | 강의 진행 |
+| 총 3개월 | DACrew 2기 | 팀장, 스터디  |
+
 
 # Paper
 + http://www.riss.kr/search/detail/DetailView.do?p_mat_type=be54d9b8bc7cdb09&control_no=ba91b1b1840ef17cffe0bdc3ef48d419
