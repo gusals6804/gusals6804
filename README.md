@@ -6,6 +6,8 @@
 
 홍익대학교 APL 연구실에서 인공지능·빅데이터 전공 석사 졸업<br/>
 http://apl.hongik.ac.kr<br/>	
+전) 너울리 2021.02 ~ 2022.09<br/>
+http://www.neouly.com<br/>
 현) 하나증권 재직 중<br/>        
    
 # Awards
