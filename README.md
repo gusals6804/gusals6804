@@ -65,7 +65,7 @@ http://www.neouly.com<br/>
 | 총 4시간 | [배재대학교] AI 경진대회를 기반으로한 PBL 교육 | 강의 진행 |
 | 총 8시간 | [단국대학교] AI 경진대회를 기반으로한 PBL 교육 | 강의 진행 |
 | 총 3개월 | DACrew 2기 | 팀장, 스터디 |
-| 총 36시간 | TABA 2기 Tibero SQL 강의 | 강의 진행 |
+| 총 40시간 | TABA 2기 Tibero SQL 강의 | 강의 진행 |
 | 총 15시간 | TABA 3기 Tibero SQL 강의 | 강의 진행 |
 
 
