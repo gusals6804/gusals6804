@@ -67,6 +67,7 @@ http://www.neouly.com<br/>
 | 총 3개월 | DACrew 2기 | 팀장, 스터디 |
 | 총 40시간 | TABA 2기 Tibero SQL 강의 | 강의 진행 |
 | 총 15시간 | TABA 3기 Tibero SQL 강의 | 강의 진행 |
+| 총 32시간 | TABA 4기 Tibero SQL 강의 | 강의 진행 |
 
 
 # Paper
